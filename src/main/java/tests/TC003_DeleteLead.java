@@ -19,7 +19,7 @@ public class TC003_DeleteLead extends TestNgHooks{
 		testCaseName = "TC001Login";
 		testDescription = "Login to Leaftaps";
 		category = "smoke";
-		authors = "Babu";  
+		authors = "BaBU";  
 		dataSheetName = "TC001";
 		nodes = "Leads";
 	}
